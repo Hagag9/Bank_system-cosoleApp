@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Bank-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{471A4106-61BF-49C9-8324-1DB5E02C5E71}|Bank-System\\Bank-System.vcxproj|E:\\Bank-System\\Bank-System\\Bank-System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{471A4106-61BF-49C9-8324-1DB5E02C5E71}|Bank-System\\Bank-System.vcxproj|solutionrelative:Bank-System\\Bank-System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank-System.cpp",
+              "DocumentMoniker": "E:\\Bank-System\\Bank-System\\Bank-System.cpp",
+              "RelativeDocumentMoniker": "Bank-System\\Bank-System.cpp",
+              "ToolTip": "E:\\Bank-System\\Bank-System\\Bank-System.cpp",
+              "RelativeToolTip": "Bank-System\\Bank-System.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAKAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T13:52:02.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
